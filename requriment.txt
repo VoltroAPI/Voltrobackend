@@ -1,0 +1,35 @@
+1.Authentication
+
+Employee, Admin and Master Admin login.
+JWT authentication with refresh tokens.
+Role-based and branch-based permissions.
+Employee ID and profile management.
+
+2.Customer Visits (first priority)
+
+Register new customers.
+Search existing customers by phone number.
+Prevent duplicate customer records.
+Record multiple visits for existing customers.
+Automatically capture visit date/time, employee and branch.
+Customer listing with pagination and search.
+Customer details and visit history.
+Update customer information.
+Excel export.
+
+3.Branch Management
+
+Create, view and update branches.
+Activate/deactivate branches.
+View branch employees and customers.                                         
+4.Employee Registry
+Create and manage employees.
+Generate unique employee IDs (example: VM01-001).
+Assign employees to branches.
+Manage roles and account status.
+
+5.Dashboard and Profile
+
+Fetch logged-in user details.
+Dashboard statistics.
+Profile and password management.
